@@ -4,6 +4,7 @@ import star from './assets/star.png';
 import dude from './assets/dude2.png';
 import box from './assets/box.png';
 
+
 const config = {
     type: Phaser.AUTO,
     width: window.innerWidth,
